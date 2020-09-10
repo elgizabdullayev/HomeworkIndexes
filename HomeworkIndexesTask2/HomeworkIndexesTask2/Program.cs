@@ -7,8 +7,8 @@ namespace HomeworkIndexesTask2
         static void Main(string[] args)
         {
             bool Exit = false;
-            int count1 = 0;
-            int count2 = 0;
+            int count1 = -1;
+            int count2 = -1;
             bool freeBase1 = false;
             bool freeBase2 = false;
             PersonalAccounts personalaccounts = new PersonalAccounts();
