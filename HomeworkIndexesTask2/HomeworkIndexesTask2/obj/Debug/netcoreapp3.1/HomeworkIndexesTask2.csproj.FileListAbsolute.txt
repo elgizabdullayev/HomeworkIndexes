@@ -1,0 +1,11 @@
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.exe
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.deps.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.runtimeconfig.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.runtimeconfig.dev.json
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.dll
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\bin\Debug\netcoreapp3.1\HomeworkIndexesTask2.pdb
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\obj\Debug\netcoreapp3.1\HomeworkIndexesTask2.csprojAssemblyReference.cache
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\obj\Debug\netcoreapp3.1\HomeworkIndexesTask2.AssemblyInfoInputs.cache
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\obj\Debug\netcoreapp3.1\HomeworkIndexesTask2.AssemblyInfo.cs
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\obj\Debug\netcoreapp3.1\HomeworkIndexesTask2.dll
+C:\Users\Elgiz\Documents\DevEducation\HomeworkIndexes\HomeworkIndexesTask2\HomeworkIndexesTask2\obj\Debug\netcoreapp3.1\HomeworkIndexesTask2.pdb
